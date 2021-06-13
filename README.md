@@ -6,7 +6,7 @@ The game is implemented by using the principles of object oriented programming k
 
 The implementation makes use of a client/server functionality and allows one to play the board game of Spectrangle as a singleplayer, multiplayer or against an artificial intelligence.
 
-Note for correctors: /out folder contains compiled .class files, which can be used to play the game without compiling it yourself using java from command line.
+Please read Documentation.pdf for more information on the design process, and the structure of this repository.
 
 
 # Getting Started
@@ -15,15 +15,10 @@ In order to play the game simply download the zip file and run CliantMain.java. 
 
 # Prerequisites
 
-This is a program written in Java, and thus the latest Java Runtime Environment (JDE)
-
-
-# Built With
-
-eclipse 
+This is a program written in Java, and thus requires the latest Java Runtime Environment (JDE)
 
 # Authors
 
-F. Nijweide
+F.P.J. Nijweide
 
 N.T. Shenkute
